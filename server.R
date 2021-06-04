@@ -70,7 +70,6 @@ shinyServer(function(input, output,session) {
       } else
         message("Null DT found in the RDS file:",rdsfile)
     
-    # finally load fuel data if date selected is in the fuel dates
   })
  
   # Plot Charts button clicked should refresh all charts with new site, date and STs
@@ -119,7 +118,7 @@ shinyServer(function(input, output,session) {
     dy2( dy_nodata("Select parameters for site and click Update Charts"))
      })
     
-#   Output three charts
+#   Output two charts
   output$tsd1 <- renderDygraph({
     dy1()
   })
