@@ -1,0 +1,27 @@
+code,name
+101, Watts
+103, Watts R phase
+105, Watts Y phase
+107, Watts B phase
+117, PowerFactor
+119, PF R phase
+121, PF Y phase
+123, PF B phase
+133, VLL
+135, Vry phase
+137, Vrb phase
+139, Vbr phase
+141, VLN Average (Volts)
+143, Vr phase
+145, Vy phase
+147, Vb phase
+149, Current Amps
+151, Current R phase
+153, Current Y phase
+155, Current B phase
+157, Frequency
+159, WH Received (EB)
+161, VAh Received
+163, VARh Ind. Received
+165, VARh Cap. Received
+167, Wh Delivered (DG)

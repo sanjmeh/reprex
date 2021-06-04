@@ -1,0 +1,18 @@
+code,name
+4101,Dcvolts
+4103,Amp ch1
+4105,Watts ch1
+4107,WH Ch1
+4117,Amp ch2
+4119,Watts ch2
+4121,WH ch2
+4131,Amp ch3
+4133,Watts ch3
+4135,WH ch3
+4145,Amp ch4
+4147,Watts ch4
+4149,WH ch4
+4113,Wh Ch1 reverse
+4134,Wh Ch2 reverse
+4153,Wh Ch3 reverse
+4173,Wh Ch4 reverse
